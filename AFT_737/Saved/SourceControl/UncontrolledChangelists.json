@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Base/BP_Base.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Main_Map.umap",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Enemy/BP_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Enemy/AI/BBD_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Enemy/AI/BT_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Enemy/AI/AIC_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MM_Idle.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MF_Unarmed_Walk_Fwd.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/Motion_Matching/PSD_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/Motion_Matching/PSS_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MM_Fall_Loop.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MM_Jump.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MM_Land.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Main_Anims/MF_Unarmed_Jog_Fwd.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Characters/Mannequins/Anims/Unarmed/Enemy_BlendSpace1D.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/Motion_Matching/ABP_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/BlendSpace/BS_Player.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Weapons/Final/Low.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Weapons/Final/Sights.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Weapons/Final/Final.uasset",
+				"D:/GamePlay Programing/AFT_737/Content/Animations/BlendSpace/BS_Player.uasset",
+				"D:/GamePlay Programing/AFT_737/Content/Animations/BlendSpace/ABP_Player.uasset",
+				"D:/GamePlay Programing/AFT_737/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/MotionMAtching/PSS_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Animations/MotionMAtching/PSD_Enemy.uasset",
+				"D:/Student Work/Muhammed Zinan/GamePlay Programing/AFT_737/Content/Enemy/BT_Enemy.uasset"
+			]
+		}
+	]
+}
